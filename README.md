@@ -17,7 +17,7 @@ Make short link by using Shortener Website API key
 
 ##### Credits
 
-Original Repo - [Mahesh0253](https://github.com/Mahesh0253/GPlink-bot)
+Original Repo - [Mahesh0253](https://github.com/T2Links/URL-Shortener-bot/)
 
 ##### Support
 
